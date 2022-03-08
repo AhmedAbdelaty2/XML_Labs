@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library location="Qena" description="the best library ever" librarian="Kareem">
+    <book title="how to open a bottle" ISBN="0000">
+        <author>
+            <name>Sayed</name>
+        </author>
+        <part>
+            first part
+            <cahpter>
+                chapter 1
+                <section>
+                    paragraph
+                </section>
+                <summary>
+                    nice one
+                </summary>
+            </cahpter>
+            <cahpter>
+                chapter 2
+                <section>
+                    paragraph
+                </section>
+                <summary>
+                    great one
+                </summary>
+            </cahpter>
+            <cahpter>
+                chapter 3
+                <section>
+                    paragraph
+                </section>
+                <summary>
+                    boring one
+                </summary>
+            </cahpter>
+        </part>
+        <part>
+            second
+            <cahpter>
+                chapter 4
+                <section>
+                    paragraph
+                </section>
+                <summary>
+                    good one
+                </summary>
+            </cahpter>
+            <cahpter>
+                chapter 5
+                <section>
+                    paragraph
+                </section>
+                <summary>
+                    bad one
+                </summary>
+            </cahpter>
+            <cahpter>
+                chapter 6
+                <section>
+                    paragraph
+                </section>
+                <summary>
+                    lol
+                </summary>
+            </cahpter>
+        </part>
+
+    </book>
+
+</Library>

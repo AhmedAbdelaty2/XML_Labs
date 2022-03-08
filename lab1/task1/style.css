@@ -1,0 +1,46 @@
+emps{
+    background-color: rgb(141, 34, 34);
+    width: 100%;
+}
+
+employee{
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0pt;
+    position: relative;
+    left: 10%;
+    
+}
+
+name{
+    color: lightcoral;
+    font-size: 30px;
+    margin-right: 10pt;
+    display: block;
+}
+
+phone{
+    color: coral;
+    font-size: 30px;
+    margin-right: 10pt
+}
+
+address{
+    color: rgb(32, 3, 3);
+    font-size: 30px;
+    display: block;
+}
+
+street{
+    color: aqua;
+}
+
+Bnum{
+    color: wheat;
+}
+
+email{
+    font-size: 30px;
+    color: lightcoral;
+    display: block;
+}
