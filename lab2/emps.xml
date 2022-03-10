@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<!DOCTYPE emps SYSTEM "validate.dtd">
+<emps>
+    <employee>
+            <name>gamal</name>
+            <phone type="mobile">0112215253</phone>
+            <address>
+                <street>solar st</street>
+                <Bnum>85</Bnum>
+                <region>Upper</region>
+                <city>Aswan</city>
+                <country>Egypt</country>
+            </address>
+            <email>gamal@gmail.com</email>
+    </employee>
+    <employee>
+        <name>boody</name>
+        <phone type="mobile">01754846814</phone>
+        <address>
+            <street>balata st</street>
+            <Bnum>15</Bnum>
+            <region>abu-zaki</region>
+            <city>Sharqia</city>
+            <country>Egypt</country>
+        </address>
+        <email>bokra@gmail.com</email>
+    </employee>
+    <employee>
+        <name>abdelhameed</name>
+        <phone type="mobile">01564654654</phone>
+        <phone type="home">035236541</phone>
+        <address>
+            <street>sunburest st</street>
+            <Bnum>77</Bnum>
+            <region>southern</region>
+            <city>Salamanka</city>
+            <country>Azrabejan</country>
+        </address>
+        <email>abooda@gmail.com</email>
+    </employee>
+    <employee>
+        <name>shakal</name>
+        <phone type="work">54000000</phone>
+        <address>
+            <street>united st</street>
+            <Bnum>6</Bnum>
+            <region>hadara</region>
+            <city>Alexandria</city>
+            <country>Egypt</country>
+        </address>
+        <email>abomakka@gmail.com</email>
+    </employee>
+</emps>
